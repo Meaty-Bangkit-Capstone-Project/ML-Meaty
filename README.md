@@ -1,6 +1,6 @@
 # ML-Meaty
 
-*Project Team Members:*
+**Project Team Members:**
 
 - Indah Noviyanti (M181DSY0087) - Machine Learning - University of Indonesia
 - Karlina Rana Salsabila (M181DSY0300) - Machine Learning - University of Indonesia
